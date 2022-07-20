@@ -28,7 +28,7 @@ Nos dois exemplos acima foi criado uma pasta chamada workspace e um arquivo dent
 Del workspace, ira deletar todos arquivos dentro da pasta workspace 
 
  
-
+<br>
 <b> Rmdir = </b> para deletar/remover repositório e tudo que estiver dentro, exemplo: 
 
 Rmdir workspace /S  / Q 
