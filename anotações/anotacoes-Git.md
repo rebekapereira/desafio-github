@@ -94,7 +94,7 @@ Os conflitos acontecem quando as alterações nos arquivos não batem
 
 git push origin master  
 
-Para clonar um repositório é necessário entrar no Github, copiar a url, e colar juntamente com o comando “git clone”.  
+Para clonar um repositório é necessário entrar no github, copiar a url, e colar juntamente com o comando git clone.  
 
  
 
