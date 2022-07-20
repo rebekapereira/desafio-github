@@ -3,7 +3,7 @@
 
 <b> Dir = </b> traz uma lista de diretórios contidas na pasta a qual estou situada  
 
-<b> Cd / = </b> permiti que  a gente navegue entre as pastas 
+<b> Cd / = </b> permiti que a gente navegue entre as pastas 
 
 <b> Cd .. = </b> volta uma navegação / sai da pasta 
 
@@ -50,7 +50,7 @@ O que é?
 
 <b> Git add = </b> mover arquivos e dar início ao versionamento 
 
-<b> Git commit = </b> para criar o commciit 
+<b> Git commit = </b> para criar o commit 
 <br>
 <br>
  
