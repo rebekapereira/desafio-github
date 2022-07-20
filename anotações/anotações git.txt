@@ -4,28 +4,18 @@ Comandos básicos: (windows)
 
 Dir = traz uma lista de diretórios contidas na pasta a qual estou situada  
 
- 
-
 Cd /   = permiti que  a gente navegue entre as pastas 
-
- 
 
 Cd .. = volta uma navegação / sai da pasta 
 
- 
-
 Ctrl + l =  limpa a tela    
-
- 
 
 TAB = quando usamos a tecla TAB ele completa o nome da pasta que está dentro do windows 
 
  
-
 Mkdir = para criar pastas exemplo: mkdir workspace 
 
  
-
 Echo = Para criar um arquivo = exemplo: 
 
 Echo hello > hello.txt 
@@ -50,15 +40,11 @@ Rmdir workspace /S  / Q
 
  
 
- 
-
 Chave SSH: 
 
 O que é? 
 
 -> de forma resumida, é uma forma de estabelecer uma conexão segura e encriptada entre duas maquinas 
-
- 
 
  
 
@@ -79,16 +65,21 @@ Git commit = para criar o commciit
  
 
  
-
  
 
 Algumas configurações iniciais: 
 
- 
 
 1 -  git config  --global  user.email "rebeca_nasciment@outlook.com" 
 
 2  - git config  –global user.name Rebeca 
+
+
+
+Git push - envia o arquivo do repositório local para o remoto 
+
+Git Pull -  é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata
+ ao repositório local para que os conteúdos sejam iguais. 
 
  
 
@@ -108,6 +99,21 @@ Quando eu quiser mandar meus arquivos para o github:
 
 Git remote add origin e a url que vai ter sido gerada anteriormente 
 
+
+
+Resolvendo conflitos no Git e GitHub:
+ 
+
+Os conflitos acontecem quando as alterações nos arquivos não batem  
+
+
+git push origin master  
+
+Para clonar um repositório é necessário entrar no Github, copiar a url, e colar juntamente com o comando “git clone”.  
+
+ls - a - mostra os diretórios da pasta 
+
+git remote - v - mostrar os repositórios remotos  
  
 
  
